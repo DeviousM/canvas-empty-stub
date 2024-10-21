@@ -1,0 +1,26 @@
+{
+  "name": "canvas-empty-stub",
+  "version": "1.0.0",
+  "description": "Empty stub to replace canvas with",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeviousM/canvas-empty-stub.git"
+  },
+  "keywords": [
+    "canvas",
+    "stub",
+    "empty",
+    "js",
+    "dependency"
+  ],
+  "author": "Michał Kostrzyński",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeviousM/canvas-empty-stub/issues"
+  },
+  "homepage": "https://github.com/DeviousM/canvas-empty-stub#readme"
+}
